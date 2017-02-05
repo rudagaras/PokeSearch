@@ -6,6 +6,8 @@ target 'PokeSearch' do
   use_frameworks!
 
   # Pods for PokeSearch
+  pod 'Firebase'
   pod 'Firebase/Core'
+  pod 'Firebase/Database'
 
 end

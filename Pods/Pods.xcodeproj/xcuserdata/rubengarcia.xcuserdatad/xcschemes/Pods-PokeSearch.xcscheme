@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '9A9ACD89DE3201C182652708082221A1'
+               BlueprintIdentifier = '9B459F899D0A8E248EF8CAF54EDD6843'
                BlueprintName = 'Pods-PokeSearch'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Pods-PokeSearch.framework'>
